@@ -7,7 +7,11 @@ from email.mime.text import MIMEText
 # you == recipient's email address
 me = "syedabuzar12@gmail.com" #sender
 you = "syedabuzar12@gmail.com" #recipient
+
+#paste your email password as we are using gmail we have to turn on the "Allow less secure apps" from "Less secure app access" from our gmail account.
+#otherwise your program will unbale to login
 pwd = '*****' # type password here
+
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
 msg['Subject'] = "Link"
