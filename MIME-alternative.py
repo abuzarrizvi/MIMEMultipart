@@ -14,7 +14,7 @@ pwd = '*****' # type password here
 
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
-msg['Subject'] = "Link"
+msg['Subject'] = "alternative"
 msg['From'] = me
 msg['To'] = you
 
