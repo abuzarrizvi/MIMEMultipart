@@ -13,7 +13,7 @@ you = "syedabuzar12@gmail.com" # paste recipient email here
 pwd = '*******' #paste your email password here
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
-msg['Subject'] = "Link"
+msg['Subject'] = "alternative plus attachment"
 msg['From'] = me
 msg['To'] = you
 
