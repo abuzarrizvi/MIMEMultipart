@@ -1424,7 +1424,7 @@ msg.attach(part1)
 msg.attach(part2)
 
 
-#########################################
+################# add attachment to the email ########################
 ATTACHMENT = "C:\\Users\\srizvi\\Desktop\\reputation.jpg"
 att = MIMEApplication(open(ATTACHMENT, 'rb').read())
 
