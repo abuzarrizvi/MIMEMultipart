@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 
 # me == my email address
 # you == recipient's email address
-me = "syedabuzar12@gmail.com" #sender
-you = "syedabuzar12@gmail.com" #recipient
+me = "********************@gmail.com" #sender
+you = "*****************" #recipient
 
 #paste your email password as we are using gmail we have to turn on the "Allow less secure apps" from "Less secure app access" from our gmail account.
 #otherwise your program will unbale to login
