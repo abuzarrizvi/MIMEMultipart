@@ -6,8 +6,8 @@ from email.mime.application import MIMEApplication
 
 # me == my email address
 # you == recipient's email address
-me = "xiq@xiq.io"
-you = "sabuzar@imsitechnologies.com"
+me = "*****************************"
+you = "*****************************"
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
 msg['Subject'] = "Link"
