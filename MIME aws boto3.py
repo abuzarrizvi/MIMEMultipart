@@ -1,9 +1,9 @@
 import boto3
 from botocore.exceptions import ClientError
 
-SENDER = "xiQ <EssentialIQ@xiQ.io>"
+SENDER = "Sender Name <Sender@email.com>"
 
-RECIPIENT = "sabuzar@imsitechnologies.com, "
+RECIPIENT = "recipient email here, "
 
 CONFIGURATION_SET = "xiq-track-events"
 
