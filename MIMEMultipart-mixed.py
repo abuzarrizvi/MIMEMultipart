@@ -6,8 +6,8 @@ from email.mime.application import MIMEApplication
 
 # me == my email address
 # you == recipient's email address
-me = "syedabuzar12@gmail.com" # paste your sender email here
-you = "syedabuzar12@gmail.com" # paste recipient email here
+me = "****" # paste your sender email here
+you = "*************8" # paste recipient email here
 #paste your email password as we are using gmail we have to turn on the "Less secure app access" from our gmail account.
 #otherwise your program will unbale to login
 pwd = '*******' #paste your email password here
